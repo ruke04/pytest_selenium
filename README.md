@@ -1,1 +1,1 @@
-# pytest_selenium
+# tau-selenium-py
